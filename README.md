@@ -5,7 +5,7 @@ Requirements: Retreive the following information from each host keeping an updat
 •	IP-address
 •	MAC-address
 •	Processor Model
-•	Operation System
+•	Operating System
 •	System time
 •	Internet connection speed
 •	Active ports
