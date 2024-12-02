@@ -15,8 +15,8 @@
 import socket #Required for IP address and computer name
 import platform #Required for getting os type on Linux & Windows
 import time #Required for system time
-import os   #Required for deletion of temp files.
-import csv  #Required in the Append function.
+import os   #Required for deletion of temp files
+import csv #Save CSV Functions
 
 #Required for the pip install for Linux / Windows
 import sys
